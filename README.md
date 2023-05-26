@@ -1,7 +1,7 @@
 # Youtube-Clone
-# Getting Started with Create React App
+# Build with ReactJs and Fetching API from rapidapi.com
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is Styling with Tailwind CSS Framework.
 
 ## Available Scripts
 
