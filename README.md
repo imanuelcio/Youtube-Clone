@@ -6,7 +6,7 @@ This project is Styling with Tailwind CSS Framework.
 # Endpoints
 **GET** Search Videos\
 __GET__ Videos Suggest\
-__GET__ Videos Detail\
+__GET__ Videos Detail
 
 ## Available Scripts
 
