@@ -3,6 +3,11 @@
 
 This project is Styling with Tailwind CSS Framework.
 
+# Endpoints
+_get_ Search Videos
+_get_ Videos Suggest
+_get_ Videos Detail
+
 ## Available Scripts
 
 In the project directory, you can run:
