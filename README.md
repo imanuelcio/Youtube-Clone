@@ -4,9 +4,9 @@
 This project is Styling with Tailwind CSS Framework.
 
 # Endpoints
-_get_ Search Videos
-_get_ Videos Suggest
-_get_ Videos Detail
+**GET** Search Videos\
+__GET__ Videos Suggest\
+__GET__ Videos Detail\
 
 ## Available Scripts
 
